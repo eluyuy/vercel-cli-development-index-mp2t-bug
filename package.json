@@ -1,0 +1,20 @@
+{
+  "name": "vercel-cli-development-index-mp2t-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev:vercel": "vercel dev --yes",
+    "build": "echo do nothing..."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "vercel": "^33.5.2"
+  },
+  "dependencies": {
+    "@types/node": "^20.11.20"
+  }
+}
